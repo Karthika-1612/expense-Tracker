@@ -1,6 +1,20 @@
-<<<<<<< HEAD
- 
-=======
-# expense-Tracker
-Simple Python Expense Tracker project
->>>>>>> e48cef10a7be18b741c648098b2f538d2cf28a78
+# Expense Tracker
+
+A simple Python Expense Tracker built using Python.
+
+## Features
+- Add multiple expenses
+- Calculate total expenses
+- Display expense summary
+
+## Technologies Used
+- Python 3
+
+## How to Run
+
+```bash
+python Expense_Tracker.py
+```
+
+## Author
+Karthika R
